@@ -1,1 +1,3 @@
-# Laptop_price_prediction_competition
+### Laptop price prediction - Kaggle Competition
+
+Sharing a jupyter notebook with my code.
